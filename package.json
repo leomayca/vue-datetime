@@ -1,6 +1,6 @@
 {
-  "name": "vue-datetime",
-  "version": "1.0.0-beta.13",
+  "name": "@leomayca/vue-datetime",
+  "version": "1.0.0-beta.15",
   "description": "Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.",
   "keywords": [
     "datetime",
@@ -9,7 +9,7 @@
     "date",
     "vue"
   ],
-  "author": "Mario Juárez <mario@mjp.one>",
+  "author": "Leonardo Mayca <leomt8440@gmail.com>",
   "main": "dist/vue-datetime.common.js",
   "module": "dist/vue-datetime.esm.js",
   "browser": "dist/vue-datetime.js",
@@ -141,12 +141,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariomka/vue-datetime.git"
+    "url": "git+https://github.com/leomayca/vue-datetime.git"
   },
   "bugs": {
-    "url": "https://github.com/mariomka/vue-datetime/issues"
+    "url": "https://github.com/leomayca/vue-datetime/issues"
   },
-  "homepage": "https://github.com/mariomka/vue-datetime#readme",
+  "homepage": "https://github.com/leomayca/vue-datetime#readme",
   "license": {
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/mit-license.php"
